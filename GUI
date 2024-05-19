@@ -51,7 +51,7 @@
             for (const child of children) element.append(child);
             return element;
         }
-        let settings, settingsKey = "05konzWasHere";
+        let settings, settingsKey = "jhonnyrouxton was here!";
         const Settings = {
             data: null,
             setItem(k, v) {
@@ -2998,6 +2998,6 @@
         img.onerror = img.onabort = null;
         cheat();
         let iframe = document.querySelector("iframe");
-        iframe.contentWindow.alert("It seems the GitHub is either blocked or down.\n\nIf it's NOT blocked, join the Discord server for updates\nhttps://discord.gg/jHjGrrdXP6")
+        iframe.contentWindow.alert("It seems the GitHub is either blocked or down.\n\nIf it's NOT blocked you will be able to use it, discord coming soon!")
     }
 })();
