@@ -1,13 +1,13 @@
 /**
 * @license StewartPrivateLicense-2.0.1
-* Copyright (c) 05Konz 2023
+* Copyright (c) jhonnyrouxton 2024
 *
 * You may not reproduce or distribute any code inside this file without the licenser's permission.
 * You may not copy, modify, steal, skid, or recreate any of the code inside this file.
 * You may not under any circumstance republish any code from this file as your own.
 * 
 * ALL TERMS STATED IN THE LINK BELOW APPLY ASWELL
-* https://github.com/05Konz/Blooket-Cheats/blob/main/LICENSE
+* https://github.com/jhonnyrouxton/Blook-Hack.-GUI-/blob/main/README.md
 */
 
 /* THE UPDATE CHECKER IS ADDED DURING COMMIT PREP, THERE MAY BE REDUNDANT CODE, DO NOT TOUCH */
@@ -158,7 +158,7 @@
         bodyDiv.appendChild(footer);
         footer.style.fontSize = '0.9rem';
         footer.style.paddingBottom = '5px';
-        footer.innerHTML = (`<span><a target="blank" href="https://discord.gg/jHjGrrdXP6">Discord</a><br/><a target="blank" href="https://github.com/05Konz2/Blooket-Cheats">GitHub - 05Konz</a></span>`);
+        footer.innerHTML = (`<span><a target="blank" href="NOT HERE YET">Discord</a><br/><a target="blank" href="https://github.com/jhonnyrouxton/Blooket-Cheats">GitHub - jhonnyrouxton</a></span>`);
         
         let cheats = ({
             global: [
@@ -2146,7 +2146,7 @@
         addEventListener('keypress', toggleHidden);
     });
     let img = new Image;
-    img.src = "https://raw.githubusercontent.com/05Konz/Blooket-Cheats/main/autoupdate/timestamps/mobileGui.png?" + Date.now();
+    img.src = "https://raw.githubusercontent.com/jhonnyrouxton/Blooket-Cheats/main/autoupdate/timestamps/mobileGui.png?" + Date.now();
     img.crossOrigin = "Anonymous";
     img.onload = function() {
         const c = document.createElement("canvas");
