@@ -158,7 +158,7 @@
         bodyDiv.appendChild(footer);
         footer.style.fontSize = '0.9rem';
         footer.style.paddingBottom = '5px';
-        footer.innerHTML = (`<span><a target="blank" href="NOT HERE YET">Discord</a><br/><a target="blank" href="https://github.com/jhonnyrouxton/Blooket-Cheats">GitHub - jhonnyrouxton</a></span>`);
+        footer.innerHTML = (`<span><a target="blank" href="Fbp5EBABmX">Discord</a><br/><a target="blank" href="https://github.com/jhonnyrouxton/Blooket-Cheats">GitHub - jhonnyrouxton</a></span>`);
         
         let cheats = ({
             global: [
@@ -2170,6 +2170,6 @@
         img.onerror = img.onabort = null;
         cheat();
         let iframe = document.querySelector("iframe");
-        iframe.contentWindow.alert("It seems the GitHub is either blocked or down.\n\nIf it's NOT blocked that'll be great! Discord coming soon!")
+        iframe.contentWindow.alert("It seems the GitHub is either blocked or down.\n\nIf it's NOT blocked that'll be great! Discord: Fbp5EBABmX!")
     }
 })();
