@@ -158,7 +158,7 @@
         bodyDiv.appendChild(footer);
         footer.style.fontSize = '0.9rem';
         footer.style.paddingBottom = '5px';
-        footer.innerHTML = (`<span><a target="blank" href="Fbp5EBABmX">Discord</a><br/><a target="blank" href="https://github.com/jhonnyrouxton/Blooket-Cheats">GitHub - jhonnyrouxton</a></span>`);
+        footer.innerHTML = (`<span><a target="blank" href="Fbp5EBABmX">Discord</a><br/><a target="blank" href="https://github.com/jhonnyrouxton/Blook-Hack.-GUI-">GitHub - jhonnyrouxton</a></span>`);
         
         let cheats = ({
             global: [
