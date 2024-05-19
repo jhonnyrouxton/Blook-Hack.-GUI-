@@ -186,7 +186,7 @@
                         fontWeight: "700",
                         userSelect: "text"
                     },
-                    innerHTML: "GitHub - 05Konz",
+                    innerHTML: "GitHub - Jhonnyrouxton",
                     onclick: () => window.open("https://github.com/05Konz2/Blooket-Cheats", "_blank").focus()
                 }),
                 (controlButtons = createElement("div", {
